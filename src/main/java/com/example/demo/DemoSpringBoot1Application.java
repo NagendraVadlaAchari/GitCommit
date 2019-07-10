@@ -120,7 +120,7 @@ public class DemoSpringBoot1Application {
 			System.out.println("Properties r Updated Successfully.,,");
 			name = "Properties r Updated Successfully..!";
 			
-			
+			System.out.println("response :::::" + name);
 			//name="Success";
 			
 		} catch (Exception e) {
